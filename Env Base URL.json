@@ -1,0 +1,14 @@
+{
+	"id": "c1b14dc1-831e-48ab-bb9c-d0dc9d062d33",
+	"name": "Base URL",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://reqres.in",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-07-10T06:49:07.468Z",
+	"_postman_exported_using": "Postman/8.7.0"
+}
